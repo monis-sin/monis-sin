@@ -29,8 +29,7 @@ A simple 2-player Tic Tac Toe game implemented in Python, showcasing logic and b
 ---
 
 ## 📫 Connect with Me
-- **Email**: monis.yourmail@example.com *(replace with your actual email)*
-- **LinkedIn**: [linkedin.com/in/monis](https://linkedin.com) *(optional, if you have one)*
+- **Email**: mohdmonisn123@gmail.com
 
 ---
 
